@@ -1,0 +1,15 @@
+Sat 10 Aug 2024 02:05:52 AM EDT - Complete backup created: cbup24s-1.tar
+Sat 10 Aug 2024 02:07:52 AM EDT - Incremental backup created: ibup24s-1.tar
+Sat 10 Aug 2024 02:09:53 AM EDT - No changes - Incremental backup was not created.
+Sat 10 Aug 2024 02:11:53 AM EDT - Differential backup created: dbup24s-1.tar
+Sat 10 Aug 2024 02:13:54 AM EDT - Incremental backup created: ibup24s-2.tar
+Sat 10 Aug 2024 02:15:55 AM EDT - Complete backup created: cbup24s-2.tar
+Sat 10 Aug 2024 02:17:57 AM EDT - Incremental backup created: ibup24s-3.tar
+Sat 10 Aug 2024 02:19:57 AM EDT - Incremental backup created: ibup24s-4.tar
+Sat 10 Aug 2024 02:21:58 AM EDT - Differential backup created: dbup24s-2.tar
+Sat 10 Aug 2024 02:23:58 AM EDT - No changes - Incremental backup was not created.
+Sat 10 Aug 2024 02:25:58 AM EDT - Complete backup created: cbup24s-3.tar
+Sat 10 Aug 2024 02:27:59 AM EDT - No changes - Incremental backup was not created.
+Sat 10 Aug 2024 02:30:01 AM EDT - No changes - Incremental backup was not created.
+Sat 10 Aug 2024 02:32:04 AM EDT - No changes - Differential backup was not created.
+Sat 10 Aug 2024 02:34:04 AM EDT - Incremental backup created: ibup24s-5.tar
